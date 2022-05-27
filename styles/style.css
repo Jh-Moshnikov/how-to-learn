@@ -31,8 +31,6 @@
   top: 30px;
   margin-left: 64px;
   z-index: 2;
-
-  
 }
 .header__title {
   margin-left: 64px;
@@ -69,7 +67,6 @@
   right: 0;
   bottom: 0;
   z-index: 1;
-
 }
 .header__square-pic {
   position: absolute;
@@ -85,7 +82,6 @@
   justify-content: center;
   margin: 100px auto 0;
 }
-
 .two-columns {
   display: flex;
   width: 80%;
@@ -201,11 +197,9 @@
 .section-title__theme_dark {
   color: white;
   margin-top: 90px;
-
 }
 .section-subtitle___theme_dark {
   color: white;
-
 }
 .table__theme_dark {
   margin-bottom: 90px;
