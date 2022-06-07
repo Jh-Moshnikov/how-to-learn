@@ -271,7 +271,6 @@
   margin: 18px 0;
   text-align: left;
 }
-
 .footer__column_content_info {
   flex-direction: column;
   padding: 0;
@@ -290,7 +289,6 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  
   padding: 0;
 }
 .footer__column-link {
