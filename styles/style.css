@@ -233,11 +233,13 @@
 }
 .footer {
   display: flex;
+  min-height: 350px;
   background-color: #1f1f1f;
   color: white;
   margin: 0;
   padding-top: 60px;
   padding-bottom: 40px;
+  box-sizing: border-box;
 }
 .footer__columns {
   display: flex;
@@ -246,7 +248,6 @@
   justify-content: space-between;
   width: 90%;
   margin: 0 auto 0;
-  min-height: 350px;
   padding: 0;
 }
 .footer__column_content_copyright {
@@ -261,7 +262,8 @@
   background-image: url(../images/logo_place_footer.svg);
   background-repeat: no-repeat;
 }
-.footer_author {
+.footer__author {
+  height: 25px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
