@@ -1,5 +1,6 @@
 .khan {
-    max-width: 1600px; 
+    max-width: 1600px;
+    /*задана ширина для отображения как на макете  */
     margin: 0 auto 0;
     box-sizing: border-box;
     padding-top: 105px;
