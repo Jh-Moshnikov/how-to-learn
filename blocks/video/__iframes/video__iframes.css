@@ -4,4 +4,5 @@
     justify-content: center;
     transform: translateY(40px);
     /* решение для расположения видео поверх границ 2 секций*/
+    box-sizing: border-box;
 }
